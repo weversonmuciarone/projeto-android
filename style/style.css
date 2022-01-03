@@ -143,7 +143,7 @@ main img.pequena{
 aside {
     background-color: var(--cor1);
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.397);
 }
 aside h3 {
