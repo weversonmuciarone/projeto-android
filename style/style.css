@@ -147,7 +147,7 @@ aside {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.397);
 }
 aside h3 {
-    font-family: var(--fonte-android);
+    font-family: var(--fonte-padrao);
     font-weight: normal;
     background-color: var(--cor5);
     color: white;
